@@ -1,4 +1,4 @@
-baseURL = "https://alexmwirigi.netlify.app/"
+baseURL = "alexmwirigi.netlify.app"
 languageCode = "en-us"
 title = "Kenya School of Artificial Intelligence"
 theme = "PaperMod"
