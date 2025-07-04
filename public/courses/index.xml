@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Courses on Kenya School of Artificial Intelligence</title>
+    <link>//localhost:1313/courses/</link>
+    <description>Recent content in Courses on Kenya School of Artificial Intelligence</description>
+    <generator>Hugo -- 0.147.9</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 28 Oct 2023 20:00:00 +0300</lastBuildDate>
+    <atom:link href="//localhost:1313/courses/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Module 01: Command &amp; Control</title>
+      <link>//localhost:1313/courses/module-01/</link>
+      <pubDate>Sat, 28 Oct 2023 20:00:00 +0300</pubDate>
+      <guid>//localhost:1313/courses/module-01/</guid>
+      <description>&lt;h2 id=&#34;welcome-to-the-kenya-school-of-artificial-intelligence&#34;&gt;WELCOME TO THE KENYA SCHOOL OF ARTIFICIAL INTELLIGENCE&lt;/h2&gt;
+&lt;p&gt;I am the Head Instructor of the &lt;strong&gt;Kenya School of Artificial Intelligence&lt;/strong&gt;. My name is not important. My function is. I&amp;rsquo;m here to forge founders. This is not a classroom. It&amp;rsquo;s a dojo. A forge. &lt;strong&gt;Kazi ni kazi&lt;/strong&gt;. I wasn&amp;rsquo;t hired to give lectures or hold your hand. I was hired to make you technically &lt;strong&gt;lethal, strategically sharp, and relentless&lt;/strong&gt;. The only thing that matters here is output: deployed code, APIs that don&amp;rsquo;t break, systems that scale, and products with real users. Everything else is noise and we don&amp;rsquo;t have time for noise.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

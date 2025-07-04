@@ -1,0 +1,21 @@
+baseURL = "/"
+languageCode = "en-us"
+title = "Kenya School of Artificial Intelligence"
+theme = "PaperMod"
+
+[params]
+  defaultTheme = "auto" # can be auto, light or dark
+  ShowShareButtons = false
+  ShowReadingTime = true
+
+[menu]
+  [[menu.main]]
+    identifier = "courses"
+    name = "Courses"
+    url = "/courses/"
+    weight = 10
+  [[menu.main]]
+    identifier = "about"
+    name = "About"
+    url = "/about/"
+    weight = 20
